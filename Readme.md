@@ -4,9 +4,9 @@ Used for making your favourite video into your linux desktop wallpaper.
 
 ## Features 
 
-[x] Lincox wallpaper booster will automatically pause when playing games or using maximized apps to ensure high system performance when you need it.
-[x] It supports most monitor resolutions and aspect ratios
-[x] It can handle even complex multi-monitor setups
+-[x] Lincox wallpaper booster will automatically pause when playing games or using maximized apps to ensure high system performance when you need it.
+-[x] It supports most monitor resolutions and aspect ratios
+-[x] It can handle even complex multi-monitor setups
 
 ## Usage
 
