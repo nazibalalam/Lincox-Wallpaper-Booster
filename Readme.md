@@ -33,5 +33,5 @@ nohup main.py [-h] [-p PATH] [-v VOLUME] [-r RATE]
 This tool is a cli version of hidamari, cuz lincox users loves cli uwu
 
 ## Demo Section
-
+![video](./video/demo.mp4)
 
